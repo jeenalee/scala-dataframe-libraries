@@ -16,3 +16,8 @@ Inspired by immutable data structures. It is a light-weight data frame library, 
 
 ## [Distributed DataFrame for Java] (http://ddf.io/)
 DDF supports Java, Python, and R. Its syntax is very similar to R, and it claims it can do most things R does. Its main goal is to provide simple API for big-data, and offers easy integration into Spark or Hadoop MapReduce. It isn't clear from the documentation whether DDF offers linear algebra functions or easy data selection.
+
+##### Nice overviews
+1. [data-frames] (https://darrenjw.wordpress.com/2015/08/21/data-frames-and-tables-in-scala/)
+2. [number=crunching] (https://www.chrisstucchio.com/pubs/slides/thoughtworks_scientific_2014/slides.html#1)
+
